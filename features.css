@@ -32,7 +32,7 @@ tr { border-bottom: 1px solid #ddd }
 .header_create_Page { display : inline }
 #create_item {margin:auto ; width : 50% ; font-size : 30px ; font-family: "Open Sans" , serif;}
 #save_button { margin:auto ; width : 50 %}
-#column1 { background-color : #D1DCD3;}
+.column1 { background-color : #D1DCD3;}
 #header-create-page { border-bottom : green }
 .colourable_ForgottenAccount  { border: 1px solid black ; background-color : #D1DCD3;}
 .search_button { background-color : #D1DCD3;  }
@@ -40,7 +40,7 @@ tr { border-bottom: 1px solid #ddd }
 #theCancelButton { float: right;}
 #theSearchButton { float: right;}
 #spacer { height : 50px ;}
-#ForgotAccount_hr { margin-top: 0.2em;
+#ForgotAccount_hr, #ForgotAccount_hr_1, #ForgotAccount_hr_2{ margin-top: 0.2em;
     margin-bottom: 0.2em; }
 .first-column {background-color : #D1DCD3; }
 .table, tr td { border-bottom : 1px solid #AAADAE}
